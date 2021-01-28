@@ -1,0 +1,24 @@
+.home-card-containers{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: darkblue;
+    width: 75%;
+    margin: 10px;
+}
+
+.home-card-containers h1{
+    padding: 25px;
+}
+
+.arrow-btn{
+    width: 100%;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.arrow-btn:focus{
+    outline: none;
+}
