@@ -1,0 +1,17 @@
+.card-container{
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    flex-wrap: wrap;
+}
+
+.card-container article{
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+    border-radius: 5px 5px 5px 5px;
+}
+
+article{
+    background-color: rgba(121, 110, 110, 0.5);
+}

@@ -1,0 +1,24 @@
+.main-nav-container{
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 0, 0);
+    width: 100%;
+    position: fixed;
+}
+
+.main-nav-container a{
+    padding: 12px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.main-nav-container a:hover{
+    background-color: rgb(245, 82, 7);
+}
+
+.main-nav-container a{
+    text-decoration: none;
+    color: white;
+}
